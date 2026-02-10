@@ -123,10 +123,10 @@ def main():
         city, month, day = get_filters()
         data = load_data(city, month, day)
 
-        time_stats(data)
-        station_stats(data)
-        trip_duration_stats(data)
-        user_stats(data)
+        analytis_time_stats(data)
+        analytis_station_stats(data)
+        analytis_trip_duration_stats(data)
+        analytis_user_stats(data)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
