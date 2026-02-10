@@ -18,3 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Dataset
 Dataset Descriptions
+
+### Credits and Dates
+Credits and Project Metadata
