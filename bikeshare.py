@@ -51,13 +51,13 @@ def time_stats(data):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     analysis_start_time = time.time()
 
-    # display the most common month
+    # display the most common months
 
 
-    # display the most common day of week
+    # display the most common day of weeks
 
 
-    # display the most common start hour
+    # display the most common start hours
 
 
     print("\nThis took %s seconds." % (time.time() - analysis_start_time))
@@ -70,13 +70,13 @@ def station_stats(data):
     print('\nCalculating The Most Popular Stations and Trip...\n')
     analysis_start_time = time.time()
 
-    # display most commonly used start station
+    # display most commonly used start stations
 
 
-    # display most commonly used end station
+    # display most commonly used end stations
 
 
-    # display most frequent combination of start station and end station trip
+    # display most frequent combination of start station and end station trips
 
 
     print("\nThis took %s seconds." % (time.time() - analysis_start_time))
