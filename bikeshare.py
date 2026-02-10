@@ -89,10 +89,10 @@ def trip_duration_stats(data):
     print('\nCalculating Trip Duration...\n')
     analysis_start_time = time.time()
 
-    # display total travel time
+    # display total travel times
 
 
-    # display mean travel time
+    # display mean travel times
 
 
     print("\nThis took %s seconds." % (time.time() - analysis_start_time))
